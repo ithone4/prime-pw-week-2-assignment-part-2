@@ -1,3 +1,4 @@
+
 // WHAT IS THIS EVEN DOING?
 
 // For questions 1-3, each code block is syntactically and logically correct. Your job is to describe what is happening. 
@@ -26,8 +27,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// A variable called name was created and set to Dane
+// A bolean script was created to say Hi, Mary! if the name entered was Mary and if it was another name to say How do you do?
 // 
 //
 
@@ -45,8 +46,8 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// A variable called secret was created and a variable called code was created and assigned number 123
+// a bolean was created to state that if 123 was entered secret would say super
 // 
 //
 
